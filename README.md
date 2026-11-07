@@ -22,6 +22,13 @@ New examples are added as the guides are published.
    in Excel / Google Sheets to copy the rows you need into your own form.
 3. Each example sits in its own group, so you can delete the groups you don't need.
 
+## Checking the data these forms collect
+
+A constraint or relevance rule stops many errors at the point of entry; the rest show up once interviews arrive.
+[DataFlow](https://letdataflow.com) reads the same XLSForm conditions and checks every submission as it syncs. Its guides
+explain [logic and consistency checks](https://letdataflow.com/checks/logic-checks), [range checks](https://letdataflow.com/checks/range-checks)
+and the other [high-frequency checks](https://letdataflow.com/checks) a survey needs.
+
 ## License
 
 The forms and text in this repository are licensed under
